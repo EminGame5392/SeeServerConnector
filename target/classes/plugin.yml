@@ -1,0 +1,7 @@
+name: SeeServerConnector
+version: '1.0'
+main: ru.gdev.seeserverconnector.SeeServerConnector
+api-version: '1.16'
+load: STARTUP
+authors: [GDev]
+website: https://seemine.su
