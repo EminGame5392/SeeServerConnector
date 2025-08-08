@@ -1,5 +1,8 @@
 # SeeServerConnector
 
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 Плагин для интеграции Minecraft сервера (1.16.5+) с веб-сайтом на Flask через локальную сеть.
 
 ## 📌 Возможности
